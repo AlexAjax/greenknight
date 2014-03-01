@@ -1,0 +1,170 @@
+
+<html>
+
+	<head>
+		<meta charset="utf-8">
+
+			<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+
+		<title>High School to College</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/simple.css" id="theme">
+
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+	</head>
+
+<body>
+
+<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+<section>
+<h1>From High School to College</h1>
+</section>
+
+<section>
+<h2>Step 1: Movement into Independence</h2>
+<h4 class="fragment roll-in">Students are moving into an adult-to-adult and adult-to-community relationships, conversations and responsibilities.</h4>
+</section>
+
+<section>
+<h3>Students bring something to the table.</h3>
+<p class="fragment roll-in">Students are learning to have their own voice and decision-making power.</p>
+<p class="fragment roll-in">They discover and offer their own ideas and identities while interacting with other adults.</p>
+<p class="fragment roll-in">Though they have to follow some basic guidelines, they can direct their studies as they like.</p>
+</section>
+
+<section>
+<h2>Step 2: Selecting Courses</h2>
+<h3 class="fragment roll-in">bringing student hopes and community guidelines together</h3>
+</section>
+
+<section>
+<h3> Students should ask, "why am I selecting this course."</h3>
+<p>Their answers will help them think about the balance between their own voice and the community.</p>
+<p>There are many good reasons to take a course:</p>
+<ul>
+<p class="fragment roll-in">It fulfills a GER.</p>
+<p class="fragment roll-in">It fulfills a major requirement.</p>
+<p class="fragment roll-in">It fulfills a minor requirement.</p>
+<p class="fragment roll-in">It fulfills an elective requirement.</p>
+<p class="fragment roll-in">I am interested in the topic.</p>
+<p class="fragment roll-in">It fits my schedule.</p>
+<p class="fragment roll-in">Someone said I should.</p>
+<p class="fragment roll-in">I like working with the people who are taking or teaching the class.</p>
+</ul>
+<p class="fragment roll-in">And their answers can help them adjust when something doesn't go as planned.</p>
+</section>
+<section>
+<p>Students should be able to give a variety of reasons for taking the courses in their schedule.</p>
+<p class="fragment roll-in">Course descriptions, instructor biographies (or publications), and other students might help determine interest and personality fit.</p> 
+<p class="fragment roll-in">The Atlas will help determine schedule fit and whether a course fulfills a GER.</p> 
+<p class="fragment roll-in">The Catalog can help determine whether a course fulfills other requirements.</p> 
+<p class="fragment roll-in">Students frequently take a course for one reason, and find out that there were other good reasons.</p>
+</section>
+
+<section>
+<h2>Adults are responsible, but not omnipotent.</h2>
+<h2 class="fragment roll-in"> Students have the final word on their academic schedules and success, but not the power to make everything happen as they wish.</h2>
+<p class="fragment roll-in">The key to success and to building schedules is not luck, but how many different ways students can pursue and adjust (customize, recreate, revise) their plans.</p>
+
+<p class="fragment roll-in">(like getting around atlanta - how many cut-throughs do you know)</p>
+</section>
+
+<section>
+
+<h2>Step 3: Asking for Help</h2>
+<h3 class="fragment roll-in">Adults are responsible, but not omnipotent.</h3>
+<h4 class="fragment roll-in">Other people help students see more ways to pursue and adjust their plans.</h4>
+<h4 class="fragment roll-in">They can fix some problems, and help students adjust to problems that can't be fixed.</h4>
+<h4 class="fragment roll-in">All the Orientation materials and all these particular OUE staff people can help students find new ways pursue and adjust their plans, or show them where to find people who can.</h4>
+</section>
+<section>
+<h3>Engaging with Others is Critical for Success</h3>
+<h4 class="fragment roll-in"> All adults sometimes need more ways to pursue and adjust our plans, but we don't know it yet.</h4>
+<h4 class="fragment roll-in"> Conversations can also help us see that we need to adjust our plans, and what kinds of plans we should build.</h4>
+
+</section>
+
+<section>
+
+<h2>Step 4: Time Management</h2>
+<h3 class="fragment roll-in"> Time management is a key factor for students balancing and managing their lives. There is a time for everything.</p>
+</h3>
+</section>
+<section>
+<h3>Key Elements in the Transition to College</h3>
+<ul>
+<li><p class="fragment roll-in">Sleep. Without sleep, it's difficult to pursue and adjust plans, set priorities, enjoy relationships, and manage your time. Most of the time, sleep is a good top priority.</p></li>
+<li><p class="fragment roll-in">Priorities. Long-term plans help us decide what is most important. If you don't have a clear long-term plan, building one is your long-term plan.</p></li>
+<li><p class="fragment roll-in">Social life. Integrate relationships into your long-term plans so that your career goals and your social needs don't seem to be at odds with one another. Sometimes social needs are a priority; sometimes study-time is a priority, and both are part of a long-term plan. </p></li>
+<li><p class="fragment roll-in">No one has mastered it, but other people (esp. in EPASS, Health, and PACE) are happy to tell you what they've learned about managing time, and to suggest ways you might learn to do it yourself.</p></li>
+</ul>
+</ul>
+</section>
+
+</section>
+
+	</div>
+
+		</div>
+
+<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+
+</body>
+</html>
